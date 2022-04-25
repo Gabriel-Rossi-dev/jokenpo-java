@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jokenpo</string>
+    <string name="maintext">Escolha do app </string>
+    <string name="choosetext">Escolha uma opção:</string>
+</resources>
